@@ -1,0 +1,17 @@
+{
+  "name": "electron-todos",
+  "version": "1.0.0",
+  "description": "A Todo app based on electron",
+  "main": "main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "szmun_caihy",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.4",
+    "electron-store": "^5.2.0",
+    "spectre.css": "^0.5.8"
+  },
+  "dependencies": {}
+}
