@@ -9,7 +9,7 @@
   "author": "szmun_caihy",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.0.4",
+    "electron": "^9.4.0",
     "electron-store": "^5.2.0",
     "spectre.css": "^0.5.8"
   },
